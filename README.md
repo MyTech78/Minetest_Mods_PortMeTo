@@ -30,6 +30,8 @@ Recipe
 ------------
 
 default:sign_wall_wood default:steel_ingot default:sign_wall_steel
+
 NONE default:stick NONE
+
 NONE default:stick NONE
 
