@@ -24,3 +24,11 @@ place it in minetest/mods/minetest/
 
 For further information or help see:
 http://wiki.minetest.com/wiki/Installing_Mods
+
+
+Recipe
+------------
+
+'default:sign_wall_wood', 'default:steel_ingot', 'default:sign_wall_steel'
+'NONE', 		  'default:stick',	  'NONE'
+'NONE', 		  'default:stick ', 	  'NONE'
