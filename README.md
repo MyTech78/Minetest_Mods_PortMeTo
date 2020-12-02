@@ -13,7 +13,7 @@ Report bugs or request help on the forum topic.
 Installation
 ------------
 
-Unzip the archive, rename the folder to to portmeto and
+Unzip the archive, rename the folder to portmeto and
 place it in minetest/mods/minetest/
 
 (  Linux: If you have a linux system-wide installation place
