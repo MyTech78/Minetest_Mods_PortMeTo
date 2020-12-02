@@ -1,0 +1,1 @@
+Adds a configurable picture frame to use as a teleport device.
