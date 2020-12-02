@@ -1,6 +1,6 @@
 --------------------------
 --       PortMeTo       --
---    Teleport Sing     --
+--    Teleport Sign     --
 -- Created by: MyTech78 --
 --------------------------
 
