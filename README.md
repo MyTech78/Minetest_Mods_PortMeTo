@@ -19,8 +19,7 @@ place it in minetest/mods/minetest/
 (  Linux: If you have a linux system-wide installation place
 	it in ~/.minetest/mods/minetest/.  )
 
-(  If you only want this to be used in a single world, place
-	the folder in worldmods/ in your worlddirectory.  )
+(  If you only want this to be used in a single world, place the folder in worldmods/ in your worlddirectory.  )
 
 For further information or help see:
 http://wiki.minetest.com/wiki/Installing_Mods
